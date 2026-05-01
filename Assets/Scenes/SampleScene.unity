@@ -1153,6 +1153,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 35d65f96c3ea3d74f8853b31f0a4940e, type: 2}
     - target: {fileID: 919132149155446097, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
       propertyPath: m_Name
       value: bollardFMP (1)
@@ -1783,6 +1787,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 35d65f96c3ea3d74f8853b31f0a4940e, type: 2}
     - target: {fileID: 919132149155446097, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
       propertyPath: m_Name
       value: bollardFMP
@@ -5444,6 +5452,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 35d65f96c3ea3d74f8853b31f0a4940e, type: 2}
     - target: {fileID: 919132149155446097, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
       propertyPath: m_Name
       value: bollardFMP (2)
@@ -6718,6 +6730,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 35d65f96c3ea3d74f8853b31f0a4940e, type: 2}
     - target: {fileID: 919132149155446097, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
       propertyPath: m_Name
       value: bollardFMP (3)
@@ -11118,6 +11134,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 35d65f96c3ea3d74f8853b31f0a4940e, type: 2}
     - target: {fileID: 919132149155446097, guid: 93c1efbff58a5cc46ac723b670b7600f, type: 3}
       propertyPath: m_Name
       value: bollardFMP (4)
